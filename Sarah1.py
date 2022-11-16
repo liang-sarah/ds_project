@@ -5,7 +5,7 @@
 import pandas as pd
  
 # reading the CSV file
-csvFile = pd.read_csv("C:\\Users\waliang\Documents\\py_data\\recipes_82k.csv")
+recipes = pd.read_csv("C:\\Users\waliang\Documents\\py_data\\recipes_82k.csv")
  
 # displaying the contents of the CSV file
-print(csvFile)
+print(recipes)
